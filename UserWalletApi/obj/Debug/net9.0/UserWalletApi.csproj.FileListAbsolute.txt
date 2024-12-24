@@ -1,0 +1,8 @@
+C:\UserWalletApi\UserWalletApi\obj\Debug\net9.0\UserWalletApi.csproj.AssemblyReference.cache
+C:\UserWalletApi\UserWalletApi\obj\Debug\net9.0\MvcTestingAppManifest.json
+C:\UserWalletApi\UserWalletApi\obj\Debug\net9.0\UserWalletApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\UserWalletApi\UserWalletApi\obj\Debug\net9.0\UserWalletApi.AssemblyInfoInputs.cache
+C:\UserWalletApi\UserWalletApi\obj\Debug\net9.0\UserWalletApi.AssemblyInfo.cs
+C:\UserWalletApi\UserWalletApi\obj\Debug\net9.0\UserWalletApi.csproj.CoreCompileInputs.cache
+C:\UserWalletApi\UserWalletApi\obj\Debug\net9.0\UserWalletApi.MvcApplicationPartsAssemblyInfo.cs
+C:\UserWalletApi\UserWalletApi\obj\Debug\net9.0\UserWalletApi.MvcApplicationPartsAssemblyInfo.cache
