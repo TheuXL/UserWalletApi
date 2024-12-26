@@ -1,4 +1,3 @@
-Aqui está um exemplo de README detalhado para o seu projeto **UserWalletApi**. Ele inclui explicações de funcionalidades, estrutura do código e exemplos de testes.
 
 ---
 
