@@ -17,7 +17,7 @@ namespace UserWalletApi.Repositories
 
         public async Task<User> GetUserByIdAsync(int id)
         {
-            return await _context.Users.FindAsync(id) ?? new User();
+            return await _context.Users.FindAsync(id) ?? new User { Nome = string.Empty, CPF = string.Empty };
         }
 
         public async Task<List<User>> GetUsersAsync()

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "j8RExRkP+uUtWRGeNEoG17t905ltFWKHONxmqbzjEhI=",
+  "Source": "UserWalletApi",
+  "BasePath": "_content/UserWalletApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -18,19 +18,19 @@ namespace UserWalletApi.Repositories
 
         public async Task<Wallet> GetWalletByIdAsync(int id)
         {
-            return await _context.Wallets.FindAsync(id) ?? new Wallet();
+             return await _context.Wallets.FindAsync(id) ?? new Wallet { Banco = string.Empty};
         }
 
         public async Task<List<Wallet>> GetWalletsByUserIdAsync(int userId)
         {
-            return await _context.Wallets
+             return await _context.Wallets
                        .Where(w => w.UserID == userId)
                        .ToListAsync() ?? new List<Wallet>();
-        }
+         }
 
         public async Task AddWalletAsync(Wallet wallet)
         {
-            await _context.Wallets.AddAsync(wallet);
+           await _context.Wallets.AddAsync(wallet);
             await _context.SaveChangesAsync();
         }
     }
